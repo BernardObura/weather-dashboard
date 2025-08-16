@@ -4,7 +4,7 @@ A modern, fully responsive weather application built with React, featuring real-
 
 ## 🌟 Live Demo
 
-**Deployed Application:** www.weather-dashboard-bernardobura.vercel.app
+**Deployed Application:** https://weather-dashboard-bernardobura.vercel.app/
 **Local Development:** http://localhost:5173
 
 ## ✨ Features
